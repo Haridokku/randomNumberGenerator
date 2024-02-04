@@ -31,7 +31,7 @@ class RandomNumberGenerator extends Component {
           >
             Generate
           </button>
-          <h1 className="head">{count}</h1>
+          <p className="head">{count}</p>
         </div>
       </div>
     )
